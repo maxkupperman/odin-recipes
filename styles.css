@@ -1,0 +1,14 @@
+li {
+    font-weight: bold;
+    color: darkgreen;
+}
+
+h1, h3 {
+    background-color: gold;
+}
+
+a:hover {
+    background-color: blueviolet;
+    color: white;
+}
+
